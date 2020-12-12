@@ -1,4 +1,4 @@
-name: smiles2ase 
+aame: smiles2ase 
 channels:
   - rdkit
   - anaconda
@@ -192,7 +192,6 @@ dependencies:
     - pytest==6.1.2
     - pytest-cov==2.10.1
     - pyyaml==5.3.1
-    - rascal==0.0.0
     - requests==2.25.0
     - scikit-learn==0.23.2
     - sortedcontainers==2.3.0
