@@ -1,4 +1,4 @@
-aame: smiles2ase 
+name: smiles2ase 
 channels:
   - rdkit
   - anaconda
